@@ -1,0 +1,23 @@
+{
+  "name": "object-comparison",
+  "version": "1.0.0",
+  "description": "A small package to deep compare two objects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicholas-c/Compare-Object.git"
+  },
+  "keywords": [
+    "object",
+    "compare",
+    "comparison",
+    "deep",
+    "loose"
+  ],
+  "author": "Nicholas Carter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicholas-c/Compare-Object/issues"
+  },
+  "homepage": "https://github.com/nicholas-c/Compare-Object#readme"
+}
