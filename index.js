@@ -25,7 +25,6 @@ function ObjectCompare(a, b) {
           break;
         default:
           return false;
-          break;
       }
     }
   }
